@@ -1,0 +1,15 @@
+{
+  "timezone": "Asia/Karachi",
+  "publish_days": ["wednesday", "saturday"],
+  "publish_time": "19:00",
+  "min_hours_before_publish": 24,
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "audio_tracks": "first",
+  "category_id": "20",
+  "made_for_kids": false,
+  "contains_synthetic_media": false,
+  "default_tags": ["gameplay", "walkthrough"],
+  "description_footer": "Subscribe for the next part."
+}

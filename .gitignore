@@ -1,0 +1,14 @@
+# Secrets: never upload these, this repository is public
+client_secret*.json
+token.json
+
+# Local data
+state.json
+.lock
+autopost.log
+work/
+videos/*
+!videos/example-video/
+videos/example-video/*
+!videos/example-video/video.json
+__pycache__/
