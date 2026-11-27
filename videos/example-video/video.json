@@ -1,0 +1,10 @@
+{
+  "ready": false,
+  "title": "Game Name Walkthrough Part 1: Chapter Name",
+  "summary": "Write one or two sentences about what happens in this video and how it helps the viewer.",
+  "game": "Game Name",
+  "publisher": "Publisher Name",
+  "tags": ["game name"],
+  "thumbnail_text": "START HERE",
+  "thumbnail_at_seconds": 30
+}
